@@ -4,7 +4,7 @@ This is the [first step](https://rakeez.com.sa/) where you can enter the basic c
 
 ## Make new Insurance
 
-![New Insurance](/rakeez-docs/images/steps/step1-1.png)
+![New Insurance](/images/steps/step1-1.png)
 
 this form for make new insurance
 
