@@ -20,7 +20,7 @@ this form for make new insurance
 
 ## Move Insurance
 
-![Move Insurance](/rakeez-docs/images/steps/step1-2.png)
+![Move Insurance](/images/steps/step1-2.png)
 
 This form to move the insurance from the seller to the buyer
 
@@ -30,7 +30,7 @@ This form to move the insurance from the seller to the buyer
 
 ## Make Insurance with customs number
 
-![Customs Insurance](/rakeez-docs/images/steps/step1-3.png)
+![Customs Insurance](/images/steps/step1-3.png)
 
 This form to make new insurance for car with the customs number
 

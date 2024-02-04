@@ -6,10 +6,10 @@
 
 - _LOGIN_ Button
 
-![Register](/rakeez-docs/images/auth/auth-2.png)
+![Register](/images/auth/auth-2.png)
 
 ## Phone Confirmation
 
 - After Register it will open "phone confirmation modal'
 
-![phone confirmation](/rakeez-docs/images/auth/auth-2-2.png)
+![phone confirmation](/images/auth/auth-2-2.png)
