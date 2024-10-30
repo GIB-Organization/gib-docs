@@ -4,7 +4,7 @@
 
 this page allow users to save credit cards data for future use
 
-- [**Electronic payment Page**](https://rakeez.com.sa/main/CreditCards)
+- **Electronic payment Page**
 
 ## Saved Cards
 

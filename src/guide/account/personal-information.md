@@ -4,8 +4,7 @@
 
 User can edit and update user information and account password
 
-- [**Personal information Page**](https://rakeez.com.sa/main/PersonalInfo)
-
+- **Personal information Page**
 ## update account info.
 
 - user can update his personal information like name, email and phone number

@@ -4,8 +4,7 @@
 
 this page allow users to add support tickets and follow old tickets
 
-- [**Technical support Page**](https://rakeez.com.sa/main/TicketCards)
-
+- **Technical support Page**
 ## Saved ticket
 
 - this page show old support tickets and tickets status

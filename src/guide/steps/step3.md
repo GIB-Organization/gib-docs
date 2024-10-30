@@ -1,6 +1,6 @@
 # Select Offer
 
-This is the [third step](https://insurance.inovola-stage.com/insuranceOffers/) you can sort filter and select third party liability or comprehensive insurance offer.
+This is the third step <!--[third step](https://insurance.inovola-stage.com/insuranceOffers/)--> you can sort filter and select third party liability or comprehensive insurance offer.
 
 - Note: You can select the offer only when you are logged in.
 

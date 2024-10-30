@@ -4,7 +4,7 @@
 
 this page contains a contact static data and contact form that end messages to the dashboard
 
-- [**Contact Page**](https://rakeez.com.sa/ContactUS)
+- [**Contact Page**](https://gib-v2.netlify.app/contact-us)
 
 ## contact form
 

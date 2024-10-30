@@ -1,6 +1,6 @@
 <template>
   <div class="dlinks">
-    <div class="link">
+    <!-- <div class="link">
       <h2>Backend & API Docs</h2>
       <p>Developer Api Documentatons - <i>Require a private access</i></p>
       <a
@@ -29,11 +29,11 @@
         Developer Swagger Apis Documentatons - <i>Require a private access</i>
       </p>
       <a
-        href="https://inovola-stage.com/taminak_backend_development/public/api/swagger/docs"
+        href="https://itarm-insurance.com/swagger/index.html"
         target="_blank"
         >Get Started</a
       >
-    </div>
+    </div> -->
   </div>
 </template>
 
